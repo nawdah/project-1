@@ -1,0 +1,100 @@
+,Country,Artist(s),Song Title,Rank,Source,Album,Genre,Spotify_ID,Country_ID,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+0,Australia,Tones and I,Dance Monkey,,Apple,Dance Monkey - Single,Pop,2XU0oxnq2qxCpomAAuJY8K,0,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+1,Australia,Regard,Ride It,,Apple,Ride It - Single,Dance,2tnVG71enUj33Ic2nFN6kZ,0,0.882,0.78,0,-4.256,0.0939,0.159,5.22e-05,0.0973,0.867,117.945,157606
+2,Australia,Dua Lipa,Don't Start Now,,Apple,Don't Start Now - Single,Pop,6WrI0LAC5M1Rw2MnX2ZvEg,0,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+3,Australia,Tones and I,Never Seen the Rain,,Apple,The Kids Are Coming - EP,Alternative,0JQ5MbyriK6ruD3t6RZ7ix,0,0.672,0.464,6,-5.624,0.037,0.43,0.0,0.284,0.271,92.069,200742
+4,Australia,Arizona Zervas,ROXANNE,,Apple,ROXANNE - Single,Hip-Hop/Rap,696DnlkuDOXcMAnKlTgXXK,0,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+5,Australia,Tame Impala,The Less I Know the Better,1.0,LastFM,Currents,,6K4t31amVTZDgR3sKmwUJJ,0,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
+6,Australia,The Killers,Mr. Brightside,2.0,LastFM,Hot Fuss,,7oK9VyNzrYvRFo7nQEYkWN,0,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
+7,Australia,The Weeknd,Can't Feel My Face,3.0,LastFM,Beauty Behind the Madness,,22VdIZQfgXJea34mQxlt81,0,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+8,Australia,Drake,Hotline Bling,4.0,LastFM,Views,,0wwPcA6wtMf6HUMpIRdeP7,0,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
+9,Australia,Tame Impala,Let It Happen,5.0,LastFM,Currents,,2X485T9Z5Ly0xyaghN73ed,0,0.602,0.881,1,-5.875,0.0443,0.00462,0.0266,0.111,0.577,125.012,467587
+10,Canada,Tones and I,Dance Monkey,,Apple,Dance Monkey - Single,Alternative,2XU0oxnq2qxCpomAAuJY8K,1,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+11,Canada,The Weeknd,Blinding Lights,,Apple,Blinding Lights - Single,R&B/Soul,0sf12qNH5qcw8qpgymFOqD,1,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+12,Canada,Arizona Zervas,ROXANNE,,Apple,ROXANNE - Single,Hip-Hop/Rap,696DnlkuDOXcMAnKlTgXXK,1,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+13,Canada,The Weeknd,Heartless,,Apple,Heartless - Single,R&B/Soul,57vxBYXtHMk6H1aD29V7PU,1,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+14,Canada,Trevor Daniel,Falling,,Apple,Falling - Single,Pop,4TnjEaWOeW0eKTKIEvJyCa,1,0.784,0.43,10,-8.756,0.0364,0.123,0.0,0.0887,0.236,127.087,159382
+15,Canada,The Weeknd,Can't Feel My Face,1.0,LastFM,Beauty Behind the Madness,,22VdIZQfgXJea34mQxlt81,1,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+16,Canada,Drake,Hotline Bling,2.0,LastFM,Views,,0wwPcA6wtMf6HUMpIRdeP7,1,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
+17,Canada,The Killers,Mr. Brightside,3.0,LastFM,Hot Fuss,,7oK9VyNzrYvRFo7nQEYkWN,1,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
+18,Canada,Nirvana,Smells Like Teen Spirit,4.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,1,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+19,Canada,Tame Impala,The Less I Know the Better,5.0,LastFM,Currents,,6K4t31amVTZDgR3sKmwUJJ,1,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
+20,Denmark,Nimo & Hava,KEIN SCHLAF,,Apple,NIMORIGINAL,Hip-Hop/Rap,6416zJN0FGPmh1Ph4BH2h3,2,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
+21,Denmark,Samra,COLT,,Apple,COLT - Single,Hip-Hop/Rap,1ACZpHI5vZ5Ea4xGlkdGWM,2,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
+22,Denmark,Capital Bra,Der Bratan bleibt der gleiche,,Apple,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,2M39v73rNJmAXUXIW0oagP,2,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
+23,Denmark,Shindy,Tiffany,,Apple,Tiffany - Single,Hip-Hop/Rap,1uzWOoJdADfstQuFtQFTUn,2,0.622,0.829,2,-5.548,0.029,0.11,0.0,0.0954,0.539,110.367,257373
+24,Denmark,Apache 207,Roller,,Apple,Platte,Hip-Hop/Rap,69M9QCMsCQ5MLsw7BBW0rL,2,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
+25,France,SCH,Mayday (feat. Ninho),,Apple,Rooftop,Hip-hop/Rap,1SVuEeerYIwjCRsF5MGzX3,3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
+26,France,Jul,6.35,,Apple,C'est pas des LOL,Hip-hop/Rap,1YSFzOfVCpZONy8yWIAn8s,3,0.777,0.495,9,-8.041,0.365,0.434,9.49e-06,0.108,0.449,98.752,395280
+27,France,Aya Nakamura,40%,,Apple,NAKAMURA (Deluxe Edition),R&B/Soul,7FYH5AW3bVfZHJIQpq3UOA,3,0.824,0.733,1,-5.475,0.0613,0.0355,0.0,0.324,0.393,97.971,284387
+28,France,Jul,Mon bébé d'amour,,Apple,C'est pas des LOL,Hip-hop/Rap,6ONBway3VLMdg9tQMZixT7,3,0.839,0.911,2,-5.625,0.172,0.207,4.9e-06,0.0711,0.779,114.959,209107
+29,France,Nirvana,Smells Like Teen Spirit,1.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,3,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+30,France,Radiohead,Creep,2.0,LastFM,Pablo Honey,,6b2oQwSGFkzsMtQruIWm2p,3,0.515,0.43,7,-9.935,0.0369,0.0102,0.000141,0.129,0.104,91.841,238640
+31,France,Jain,Come,3.0,LastFM,Zanaka,,3TTMUI5dFcbeNSDTTDY9M8,3,0.679,0.728,5,-3.092,0.154,0.159,0.0,0.107,0.46,152.001,181013
+32,France,Oasis,Wonderwall,4.0,LastFM,(What's the Story) Morning Glory?,,5wj4E6IsrVtn8IBJQOd0Cl,3,0.372,0.865,2,-4.918,0.0381,0.000453,0.0,0.234,0.478,174.53,258733
+33,France,Radiohead,Karma Police,5.0,LastFM,OK Computer,,3SVAN3BRByDmHOhKyIDxfC,3,0.36,0.505,7,-9.129,0.026,0.0626,9.22e-05,0.172,0.317,74.807,264067
+34,Germany,Nirvana,Smells Like Teen Spirit,1.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,4,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+35,Germany,Toto,Africa,2.0,LastFM,Toto IV,,2374M0fQpWi3dLnB54qaLX,4,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+36,Germany,The Killers,Mr. Brightside,3.0,LastFM,Hot Fuss,,7oK9VyNzrYvRFo7nQEYkWN,4,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
+37,Germany,Nirvana,Come as You Are,4.0,LastFM,Nevermind,,4P5KoWXOxwuobLmHXLMobV,4,0.5,0.824,4,-5.846,0.0388,0.00016,0.00161,0.0916,0.539,120.125,218920
+38,Germany,Adele,Hello,5.0,LastFM,25,,4sPmO7WMQUAf45kwMOtONw,4,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
+39,Hong Kong,Shawn Mendes & Camila Cabello,Señorita,,Apple,Señorita - Single,流行樂,0TK2YIli7K1leLovkQiNik,5,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
+40,Hong Kong,Idina Menzel & AURORA,Into the Unknown,,Apple,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),原聲帶,3Z0oQ8r78OUaHvGPiDBR3W,5,0.323,0.405,10,-8.533,0.0413,0.849,0.000544,0.138,0.274,145.104,194848
+41,Hong Kong,周杰倫 & 阿信,說好不哭,,Apple,說好不哭 - Single,國語流行樂,56wVfJKtnwlSZtC4NVgIrf,5,0.512,0.35,10,-11.843,0.0311,0.478,1.15e-06,0.0855,0.343,152.023,222333
+42,Hong Kong,Idina Menzel & Evan Rachel Wood,Show Yourself,,Apple,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),原聲帶,50WeOnXhM1H7AZEeIDoWfZ,5,0.321,0.429,6,-7.073,0.0302,0.724,9.1e-05,0.0606,0.174,123.421,260907
+43,Hong Kong,魔力紅樂團,Memories,,Apple,Memories - Single,流行樂,2b8fOow8UzyDFAE27YhOZM,5,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+44,Hong Kong,Adele,Hello,1.0,LastFM,25,,4sPmO7WMQUAf45kwMOtONw,5,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
+45,Hong Kong,The Weeknd,Can't Feel My Face,2.0,LastFM,Beauty Behind the Madness,,22VdIZQfgXJea34mQxlt81,5,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+46,Hong Kong,Ed Sheeran,Photograph,3.0,LastFM,x,,1HNkqx9Ahdgi1Ixy2xkKkL,5,0.614,0.379,4,-10.48,0.0476,0.607,0.000464,0.0986,0.201,107.989,258987
+47,Hong Kong,Ed Sheeran,Thinking Out Loud,4.0,LastFM,x,,34gCuhDGsG4bRPIf9bb02f,5,0.781,0.445,2,-6.061,0.0295,0.474,0.0,0.184,0.591,78.998,281560
+48,Hong Kong,Ed Sheeran,Shape of You,5.0,LastFM,÷ (Deluxe),,7qiZfU4dY1lWllzX7mPBI3,5,0.825,0.652,1,-3.183,0.0802,0.581,0.0,0.0931,0.931,95.977,233713
+49,Japan,Official髭男dism,Pretender,,Apple,Pretender - Single,J-Pop,7x8dCjCr0x6x2lXKujYD34,6,0.433,0.959,9,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373
+50,Japan,King Gnu,白日,,Apple,白日 - Single,オルタナティブ,7f6294j6awMKzkePCiRbjj,6,0.448,0.937,2,-3.833,0.0568,5.5e-05,0.246,0.168,0.314,143.037,296733
+51,Japan,Official髭男dism,宿命,,Apple,宿命 - Single,J-Pop,1T6Db8pPGs2CaMGKQwfR5o,6,0.346,0.475,2,-8.992,0.0335,0.757,1.87e-05,0.171,0.232,126.821,237689
+52,Japan,Official髭男dism,イエスタデイ,,Apple,Traveler,J-Pop,270LcmQ5eUlY2Sl6Y4L6Wn,6,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
+53,Japan,あいみょん,マリーゴールド,,Apple,瞬間的シックスセンス,J-Pop,0jWVUKsIoyo3zw64RaEWYg,6,0.545,0.745,2,-3.098,0.0286,0.0452,0.0,0.0907,0.413,106.094,306627
+54,Japan,スピッツ,ロビンソン,1.0,LastFM,ハチミツ,,4SBVWkRIMJ6WBCYPvr5Bwr,6,0.676,0.56,4,-6.024,0.0643,0.0112,0.00403,0.137,0.551,178.555,219332
+55,Japan,宇多田ヒカル,花束を君に,2.0,LastFM,花束を君に,,31yv1hR9gw1WSEmtqsaZbD,6,0.521,0.539,4,-7.667,0.029,0.538,0.0,0.307,0.358,81.979,278240
+56,Japan,サカナクション,新宝島,3.0,LastFM,新宝島,,4a48lWUd64bZgHUDx0GZlj,6,0.551,0.919,7,-3.484,0.074,0.0013,0.00638,0.352,0.652,157.989,305000
+57,Japan,ASIAN KUNG-FU GENERATION,リライト,4.0,LastFM,ソルファ,,630sXRhIcfwr2e4RdNtjKN,6,0.684,0.619,10,-7.005,0.0386,0.0716,0.0,0.122,0.284,125.046,217440
+58,Japan,宇多田ヒカル,道,5.0,LastFM,Hikaru Utada Laughter in the Dark Tour 2018,,6KAw9NEvkVlIhg5T0G97M8,6,0.493,0.295,1,-9.924,0.0251,0.494,0.0,0.13,0.301,86.982,277160
+59,Netherlands,Tones and I,Dance Monkey,,Apple,Dance Monkey - Single,Alternative,2XU0oxnq2qxCpomAAuJY8K,7,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+60,Netherlands,Billie Eilish,everything i wanted,,Apple,everything i wanted - Single,Alternative,3ZCTVFBt2Brf31RLEnCkWJ,7,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+61,Netherlands,The Weeknd,Blinding Lights,,Apple,Blinding Lights - Single,R&B/Soul,0sf12qNH5qcw8qpgymFOqD,7,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+62,Netherlands,Mariah Carey,All I Want For Christmas Is You,,Apple,Merry Christmas,Feestdagen,0bYg9bo50gSsH3LtXe2SQn,7,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+63,Netherlands,Dua Lipa,Don't Start Now,,Apple,Don't Start Now - Single,Pop,6WrI0LAC5M1Rw2MnX2ZvEg,7,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+64,Netherlands,Toto,Africa,1.0,LastFM,Toto IV,,2374M0fQpWi3dLnB54qaLX,7,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+65,Netherlands,Dire Straits,Sultans of Swing,2.0,LastFM,Dire Straits,,6cr6UDpkjEaMQ80OjWqEBQ,7,0.73,0.868,5,-7.325,0.0288,0.0632,0.0661,0.318,0.923,148.217,350400
+66,Netherlands,Adele,Hello,3.0,LastFM,25,,4sPmO7WMQUAf45kwMOtONw,7,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
+67,Netherlands,Nirvana,Smells Like Teen Spirit,4.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,7,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+68,Netherlands,Oasis,Wonderwall,5.0,LastFM,(What's the Story) Morning Glory?,,5wj4E6IsrVtn8IBJQOd0Cl,7,0.372,0.865,2,-4.918,0.0381,0.000453,0.0,0.234,0.478,174.53,258733
+69,Russia,GAYAZOV$ BROTHER$,Увезите меня на Дип-хаус,,Apple,Увезите меня на Дип-хаус - Single,Поп,6Dh32tS5znKbryJdHXSRrC,8,0.663,0.731,11,-5.983,0.0665,0.0759,0.0,0.203,0.39,124.914,176640
+70,Russia,NILETTO,Любимка,,Apple,Любимка - Single,Поп,1q7Ie8Tgphv4iBwUlr5B9j,8,0.852,0.767,7,-4.197,0.0705,0.115,1.7e-06,0.811,0.535,130.022,219692
+71,Russia,JONY,Комета,,Apple,Комета - Single,Поп,1tjM9dP8GWkYl4orF7yLWD,8,0.618,0.619,0,-4.569,0.0739,0.609,0.0,0.0949,0.268,139.974,161143
+72,Russia,Tones and I,Dance Monkey,,Apple,The Kids Are Coming - EP,Альтернатива,2XU0oxnq2qxCpomAAuJY8K,8,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+73,Russia,THRILL PILL,Грустная Песня (feat. Егор Крид & MORGENSHTERN),,Apple,ОТКРОВЕНИЯ,Хип-хоп,7a7jc9S9p4dz5eWQVtvSUp,8,0.881,0.563,0,-5.549,0.0437,0.114,0.0,0.178,0.524,95.012,226495
+74,Russia,Nirvana,Smells Like Teen Spirit,1.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,8,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+75,Russia,The White Stripes,Seven Nation Army,2.0,LastFM,Elephant,,7i6r9KotUPQg3ozKKgEPIN,8,0.737,0.463,0,-7.828,0.0792,0.00817,0.447,0.255,0.324,123.881,231733
+76,Russia,Linkin Park,Numb,3.0,LastFM,Meteora,,4rhr8LgQoPtWkQaXVPSNOO,8,0.683,0.0759,11,-10.567,0.032,0.902,0.0,0.089,0.74,93.186,82470
+77,Russia,The xx,Intro,4.0,LastFM,xx,,77KMttn3Lic7ZQKDlPqp8v,8,0.862,0.685,0,-7.699,0.242,0.0342,0.0,0.204,0.672,100.024,172800
+78,Russia,Linkin Park,In the End,5.0,LastFM,Greatest Hits,,60a0Rd6pjrkxjPbaKzXjfq,8,0.556,0.864,3,-5.87,0.0584,0.00958,0.0,0.209,0.4,105.143,216880
+79,UK,Stormzy,Own It (feat. Ed Sheeran & Burna Boy),,Apple,Heavy Is The Head,Hip-Hop/Rap,07s9NNOT0sZQp7TyolLLgu,9,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
+80,UK,Tones and I,Dance Monkey,,Apple,Dance Monkey - Single,Alternative,2XU0oxnq2qxCpomAAuJY8K,9,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+81,UK,Lewis Capaldi,Before You Go,,Apple,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,7ce20yLkzuXXLUhzIDoZih,9,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
+82,UK,Mariah Carey,All I Want For Christmas Is You,,Apple,Merry Christmas,Christmas,0bYg9bo50gSsH3LtXe2SQn,9,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+83,UK,Dua Lipa,Don't Start Now,,Apple,Don't Start Now - Single,Pop,6WrI0LAC5M1Rw2MnX2ZvEg,9,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+84,UK,The Killers,Mr. Brightside,1.0,LastFM,Hot Fuss,,7oK9VyNzrYvRFo7nQEYkWN,9,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
+85,UK,Toto,Africa,2.0,LastFM,Toto IV,,2374M0fQpWi3dLnB54qaLX,9,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
+86,UK,Mariah Carey,All I Want for Christmas Is You,3.0,LastFM,Merry Christmas,,0bYg9bo50gSsH3LtXe2SQn,9,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+87,UK,Nirvana,Smells Like Teen Spirit,4.0,LastFM,Nevermind,,5ghIJDpPoe3CfHMGu71E6T,9,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
+88,UK,The White Stripes,Seven Nation Army,5.0,LastFM,Elephant,,7i6r9KotUPQg3ozKKgEPIN,9,0.737,0.463,0,-7.828,0.0792,0.00817,0.447,0.255,0.324,123.881,231733
+89,US,Roddy Ricch,The Box,,Apple,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,0nbXyq5TXYPCO7pr3N8S4I,10,0.896,0.586,10,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971,196653
+90,US,Roddy Ricch,Start wit Me (feat. Gunna),,Apple,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,5ravc2aiNoYmu9m37diYXW,10,0.924,0.466,4,-9.472,0.244,0.0401,0.0,0.109,0.539,130.038,146656
+91,US,Roddy Ricch,Peta (feat. Meek Mill),,Apple,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4bl1HBZliBuYpFZjWgefE4,10,0.778,0.573,10,-7.339,0.251,0.015,0.0,0.464,0.269,140.114,198849
+92,US,Roddy Ricch,Intro,,Apple,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,77KMttn3Lic7ZQKDlPqp8v,10,0.862,0.685,0,-7.699,0.242,0.0342,0.0,0.204,0.672,100.024,172800
+93,US,Roddy Ricch,Tip Toe (feat. A Boogie wit da Hoodie),,Apple,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,5j1yOqWONR9T6l43AzJ6Es,10,0.757,0.673,1,-8.513,0.141,0.095,0.0,0.338,0.574,92.958,185806
+94,US,The Weeknd,Can't Feel My Face,1.0,LastFM,Beauty Behind the Madness,,22VdIZQfgXJea34mQxlt81,10,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
+95,US,Drake,Hotline Bling,2.0,LastFM,Views,,0wwPcA6wtMf6HUMpIRdeP7,10,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
+96,US,Tame Impala,The Less I Know the Better,3.0,LastFM,Currents,,6K4t31amVTZDgR3sKmwUJJ,10,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
+97,US,The Killers,Mr. Brightside,4.0,LastFM,Hot Fuss,,7oK9VyNzrYvRFo7nQEYkWN,10,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
+98,US,Adele,Hello,5.0,LastFM,25,,4sPmO7WMQUAf45kwMOtONw,10,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
