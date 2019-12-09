@@ -1,46 +1,46 @@
-Country,Name,Artist,Album,Genre,Rank,Source,Translated Genre
-Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),原聲帶,1,Apple,Soundtrack
-Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,流行樂,2,Apple,Pop
-Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,國語流行樂,3,Apple,Pop
-Hong Kong,Show Yourself,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),原聲帶,4,Apple,Soundtrack
-Hong Kong,Memories,魔力紅樂團,Memories - Single,流行樂,5,Apple,Pop
-Netherlands,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,Alternative
-Netherlands,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Feestdagen,2,Apple,Holidays
-Netherlands,Last Christmas (Single Version),Wham!,Last Christmas - Single,Feestdagen,3,Apple,Holidays
-Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,4,Apple,R&B/Soul
-Netherlands,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,5,Apple,Alternative
-Australia,Dance Monkey,Tones and I,Dance Monkey - Single,Pop,1,Apple,Pop
-Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,2,Apple,Pop
-Australia,Ride It,Regard,Ride It - Single,Dance,3,Apple,Dance
-Australia,Never Seen the Rain,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,Alternative
-Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,5,Apple,Hip-Hop/Rap
-Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,Alternative
-Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Apple,Hip-Hop/Rap
-Canada,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,3,Apple,R&B/Soul
-Canada,Heartless,The Weeknd,Heartless - Single,R&B/Soul,4,Apple,R&B/Soul
-Canada,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,Apple,Holiday
-France,Ne reviens pas (feat. Heuss L'enfoiré),Gradur,Zone 59,Hip-hop/Rap,1,Apple,Hip-hop/Rap
-France,Mayday (feat. Ninho),SCH,Rooftop,Hip-hop/Rap,2,Apple,Hip-hop/Rap
-France,40%,Aya Nakamura,NAKAMURA (Deluxe Edition),R&B/Soul,3,Apple,R&B/Soul
-France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,Alternative
-France,Mon bébé d'amour,Jul,C'est pas des LOL,Hip-hop/Rap,5,Apple,Hip-hop/Rap
-Japan,Pretender,Official髭男dism,Pretender - Single,J-Pop,1,Apple,J-Pop
-Japan,白日,King Gnu,白日 - Single,オルタナティブ,2,Apple,Alternative
-Japan,宿命,Official髭男dism,宿命 - Single,J-Pop,3,Apple,J-Pop
-Japan,イエスタデイ,Official髭男dism,Traveler,J-Pop,4,Apple,J-Pop
-Japan,マリーゴールド,あいみょん,瞬間的シックスセンス,J-Pop,5,Apple,J-Pop
-UK,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,Alternative
-UK,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,Heavy Is The Head,Hip-Hop/Rap,2,Apple,Hip-Hop/Rap
-UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Christmas,3,Apple,Christmas
-UK,Last Christmas,Wham!,Twenty Five,Pop,4,Apple,Pop
-UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,5,Apple,Alternative
-Germany,KEIN SCHLAF,Nimo & Hava,NIMORIGINAL,Hip-Hop/Rap,1,Apple,Hip-Hop/Rap
-Germany,COLT,Samra,COLT - Single,Hip-Hop/Rap,2,Apple,Hip-Hop/Rap
-Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,3,Apple,Hip-Hop/Rap
-Germany,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,4,Apple,Alternative
-Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,5,Apple,Hip-Hop/Rap
-US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,1,Apple,Hip-Hop/Rap
-US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,2,Apple,Hip-Hop/Rap
-US,Peta (feat. Meek Mill),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,3,Apple,Hip-Hop/Rap
-US,Tip Toe (feat. A Boogie wit da Hoodie),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4,Apple,Hip-Hop/Rap
-US,Woah,Lil Baby,Woah - Single,Hip-Hop/Rap,5,Apple,Hip-Hop/Rap
+Country,Name,Artist,Album,Genre,Rank,Source
+Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,1,Apple
+Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,2,Apple
+Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,Pop,3,Apple
+Hong Kong,Show Yourself,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,4,Apple
+Hong Kong,Memories,魔力紅樂團,Memories - Single,Pop,5,Apple
+Netherlands,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple
+Netherlands,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holidays,2,Apple
+Netherlands,Last Christmas (Single Version),Wham!,Last Christmas - Single,Holidays,3,Apple
+Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,4,Apple
+Netherlands,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,5,Apple
+Australia,Dance Monkey,Tones and I,Dance Monkey - Single,Pop,1,Apple
+Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,2,Apple
+Australia,Ride It,Regard,Ride It - Single,Dance,3,Apple
+Australia,Never Seen the Rain,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple
+Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,5,Apple
+Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple
+Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Apple
+Canada,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,3,Apple
+Canada,Heartless,The Weeknd,Heartless - Single,R&B/Soul,4,Apple
+Canada,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,Apple
+France,Ne reviens pas (feat. Heuss L'enfoiré),Gradur,Zone 59,Hip-hop/Rap,1,Apple
+France,Mayday (feat. Ninho),SCH,Rooftop,Hip-hop/Rap,2,Apple
+France,40%,Aya Nakamura,NAKAMURA (Deluxe Edition),R&B/Soul,3,Apple
+France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple
+France,Mon bébé d'amour,Jul,C'est pas des LOL,Hip-hop/Rap,5,Apple
+Japan,Pretender,Official髭男dism,Pretender - Single,J-Pop,1,Apple
+Japan,白日,King Gnu,白日 - Single,Alternative,2,Apple
+Japan,宿命,Official髭男dism,宿命 - Single,J-Pop,3,Apple
+Japan,イエスタデイ,Official髭男dism,Traveler,J-Pop,4,Apple
+Japan,マリーゴールド,あいみょん,瞬間的シックスセンス,J-Pop,5,Apple
+UK,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple
+UK,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,Heavy Is The Head,Hip-Hop/Rap,2,Apple
+UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Christmas,3,Apple
+UK,Last Christmas,Wham!,Twenty Five,Pop,4,Apple
+UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,5,Apple
+Germany,KEIN SCHLAF,Nimo & Hava,NIMORIGINAL,Hip-Hop/Rap,1,Apple
+Germany,COLT,Samra,COLT - Single,Hip-Hop/Rap,2,Apple
+Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,3,Apple
+Germany,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,4,Apple
+Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,5,Apple
+US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,1,Apple
+US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,2,Apple
+US,Peta (feat. Meek Mill),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,3,Apple
+US,Tip Toe (feat. A Boogie wit da Hoodie),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4,Apple
+US,Woah,Lil Baby,Woah - Single,Hip-Hop/Rap,5,Apple
