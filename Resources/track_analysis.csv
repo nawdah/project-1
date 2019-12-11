@@ -1,149 +1,136 @@
-<<<<<<< HEAD
 ,Country,Name,Artist,Album,Genre,Rank,Source,Spotify ID,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
-0,Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,1,Apple,3Z0oQ8r78OUaHvGPiDBR3W,0.323,0.405,10,-8.533,0.0413,0.849,0.000544,0.138,0.274,145.104,194848
-1,Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,2,Apple,0TK2YIli7K1leLovkQiNik,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
-2,Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,Pop,3,Apple,56wVfJKtnwlSZtC4NVgIrf,0.512,0.35,10,-11.843,0.0311,0.478,1.15e-06,0.0855,0.343,152.023,222333
-3,Hong Kong,Show Yourself,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,4,Apple,50WeOnXhM1H7AZEeIDoWfZ,0.321,0.429,6,-7.073,0.0302,0.724,9.1e-05,0.0606,0.174,123.421,260907
-4,Hong Kong,Memories,魔力紅樂團,Memories - Single,Pop,5,Apple,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
-5,Netherlands,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-6,Netherlands,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holidays,2,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-7,Netherlands,Last Christmas (Single Version),Wham!,Last Christmas - Single,Holidays,3,Apple,2xaIDPWSc9IofcokGi85TP,0.649,0.827,5,-5.813,0.0318,0.0434,0.0,0.0437,0.461,115.958,235080
-8,Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,4,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
-9,Netherlands,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,5,Apple,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
-10,Australia,Dance Monkey,Tones and I,Dance Monkey - Single,Pop,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-11,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,2,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
-12,Australia,Ride It,Regard,Ride It - Single,Dance,3,Apple,2tnVG71enUj33Ic2nFN6kZ,0.882,0.78,0,-4.256,0.0939,0.159,5.22e-05,0.0973,0.867,117.945,157606
-13,Australia,Never Seen the Rain,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,0JQ5MbyriK6ruD3t6RZ7ix,0.672,0.464,6,-5.624,0.037,0.43,0.0,0.284,0.271,92.069,200742
-14,Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,5,Apple,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-15,Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-16,Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Apple,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-17,Canada,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,3,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
-18,Canada,Heartless,The Weeknd,Heartless - Single,R&B/Soul,4,Apple,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
-19,Canada,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-20,France,Ne reviens pas (feat. Heuss L'enfoiré),Gradur,Zone 59,Hip-hop/Rap,1,Apple,0kp0ovTvyYUdoexEt7AcoL,0.932,0.762,10,-3.376,0.0747,0.222,0.0,0.164,0.931,124.975,188613
-21,France,Mayday (feat. Ninho),SCH,Rooftop,Hip-hop/Rap,2,Apple,1SVuEeerYIwjCRsF5MGzX3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
-22,France,40%,Aya Nakamura,NAKAMURA (Deluxe Edition),R&B/Soul,3,Apple,7FYH5AW3bVfZHJIQpq3UOA,0.824,0.733,1,-5.475,0.0613,0.0355,0.0,0.324,0.393,97.971,284387
-23,France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-24,France,Mon bébé d'amour,Jul,C'est pas des LOL,Hip-hop/Rap,5,Apple,6ONBway3VLMdg9tQMZixT7,0.839,0.911,2,-5.625,0.172,0.207,4.9e-06,0.0711,0.779,114.959,209107
-25,Japan,Pretender,Official髭男dism,Pretender - Single,J-Pop,1,Apple,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373
-26,Japan,白日,King Gnu,白日 - Single,Alternative,2,Apple,7f6294j6awMKzkePCiRbjj,0.448,0.937,2,-3.833,0.0568,5.5e-05,0.246,0.168,0.314,143.037,296733
-27,Japan,宿命,Official髭男dism,宿命 - Single,J-Pop,3,Apple,1T6Db8pPGs2CaMGKQwfR5o,0.346,0.475,2,-8.992,0.0335,0.757,1.87e-05,0.171,0.232,126.821,237689
-28,Japan,イエスタデイ,Official髭男dism,Traveler,J-Pop,4,Apple,270LcmQ5eUlY2Sl6Y4L6Wn,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
-29,Japan,マリーゴールド,あいみょん,瞬間的シックスセンス,J-Pop,5,Apple,0jWVUKsIoyo3zw64RaEWYg,0.545,0.745,2,-3.098,0.0286,0.0452,0.0,0.0907,0.413,106.094,306627
-30,UK,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-31,UK,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,Heavy Is The Head,Hip-Hop/Rap,2,Apple,07s9NNOT0sZQp7TyolLLgu,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
-32,UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Christmas,3,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-33,UK,Last Christmas,Wham!,Twenty Five,Pop,4,Apple,6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0.0282,0.262,0.0,0.221,0.861,106.856,267160
-34,UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,5,Apple,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
-35,Germany,KEIN SCHLAF,Nimo & Hava,NIMORIGINAL,Hip-Hop/Rap,1,Apple,6416zJN0FGPmh1Ph4BH2h3,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
-36,Germany,COLT,Samra,COLT - Single,Hip-Hop/Rap,2,Apple,1ACZpHI5vZ5Ea4xGlkdGWM,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
-37,Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,3,Apple,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
-38,Germany,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,4,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-39,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,5,Apple,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
-40,US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,1,Apple,0nbXyq5TXYPCO7pr3N8S4I,0.896,0.586,10,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971,196653
-41,US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,2,Apple,5ravc2aiNoYmu9m37diYXW,0.924,0.466,4,-9.472,0.244,0.0401,0.0,0.109,0.539,130.038,146656
-42,US,Peta (feat. Meek Mill),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,3,Apple,4bl1HBZliBuYpFZjWgefE4,0.778,0.573,10,-7.339,0.251,0.015,0.0,0.464,0.269,140.114,198849
-43,US,Tip Toe (feat. A Boogie wit da Hoodie),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4,Apple,5j1yOqWONR9T6l43AzJ6Es,0.757,0.673,1,-8.513,0.141,0.095,0.0,0.338,0.574,92.958,185806
-44,US,Woah,Lil Baby,Woah - Single,Hip-Hop/Rap,5,Apple,598yNsG1JFrGd4n2kMoz7F,0.882,0.602,11,-5.554,0.245,0.0177,0.0,0.178,0.43,142.959,183011
-45,Hong Kong,Hello,Adele,25,Pop,1,LastFM,4sPmO7WMQUAf45kwMOtONw,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
-46,Hong Kong,Can't Feel My Face,The Weeknd,Beauty Behind the Madness,R&B/Soul,2,LastFM,22VdIZQfgXJea34mQxlt81,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
-47,Hong Kong,Photograph,Ed Sheeran,x,Pop,3,LastFM,1HNkqx9Ahdgi1Ixy2xkKkL,0.614,0.379,4,-10.48,0.0476,0.607,0.000464,0.0986,0.201,107.989,258987
-48,Hong Kong,Thinking Out Loud,Ed Sheeran,x,Pop,4,LastFM,34gCuhDGsG4bRPIf9bb02f,0.781,0.445,2,-6.061,0.0295,0.474,0.0,0.184,0.591,78.998,281560
-49,Hong Kong,Shape of You,Ed Sheeran,÷ (Deluxe),Pop,5,LastFM,7qiZfU4dY1lWllzX7mPBI3,0.825,0.652,1,-3.183,0.0802,0.581,0.0,0.0931,0.931,95.977,233713
-50,Netherlands,Africa,Toto,Toto IV,Rock,1,LastFM,2374M0fQpWi3dLnB54qaLX,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
-51,Netherlands,Sultans of Swing,Dire Straits,Dire Straits,Rock,2,LastFM,6cr6UDpkjEaMQ80OjWqEBQ,0.73,0.868,5,-7.325,0.0288,0.0632,0.0661,0.318,0.923,148.217,350400
-52,Netherlands,Hello,Adele,25,Pop,3,LastFM,4sPmO7WMQUAf45kwMOtONw,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
-53,Netherlands,Smells Like Teen Spirit,Nirvana,Nevermind,Rock,4,LastFM,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
-54,Netherlands,Wonderwall,Oasis,(What's the Story) Morning Glory?,Alternative,5,LastFM,5wj4E6IsrVtn8IBJQOd0Cl,0.372,0.865,2,-4.918,0.0381,0.000453,0.0,0.234,0.478,174.53,258733
-55,Australia,The Less I Know the Better,Tame Impala,Currents,Alternative,1,LastFM,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
-56,Australia,Mr. Brightside,The Killers,Hot Fuss,Rock,2,LastFM,7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
-57,Australia,Can't Feel My Face,The Weeknd,Beauty Behind the Madness,R&B/Soul,3,LastFM,22VdIZQfgXJea34mQxlt81,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
-58,Australia,Hotline Bling,Drake,Views,Hip-Hop/Rap,4,LastFM,0wwPcA6wtMf6HUMpIRdeP7,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
-59,Australia,Let It Happen,Tame Impala,Currents,Alternative,5,LastFM,2X485T9Z5Ly0xyaghN73ed,0.602,0.881,1,-5.875,0.0443,0.00462,0.0266,0.111,0.577,125.012,467587
-60,Canada,Can't Feel My Face,The Weeknd,Beauty Behind the Madness,R&B/Soul,1,LastFM,22VdIZQfgXJea34mQxlt81,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
-61,Canada,Hotline Bling,Drake,Views,Hip-Hop/Rap,2,LastFM,0wwPcA6wtMf6HUMpIRdeP7,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
-62,Canada,Mr. Brightside,The Killers,Hot Fuss,Rock,3,LastFM,7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
-63,Canada,Smells Like Teen Spirit,Nirvana,Nevermind,Rock,4,LastFM,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
-64,Canada,The Less I Know the Better,Tame Impala,Currents,Alternative,5,LastFM,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
-65,France,Smells Like Teen Spirit,Nirvana,Nevermind,Rock,1,LastFM,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
-66,France,Creep,Radiohead,Pablo Honey,Alternative,2,LastFM,6b2oQwSGFkzsMtQruIWm2p,0.515,0.43,7,-9.935,0.0369,0.0102,0.000141,0.129,0.104,91.841,238640
-67,France,Come,Jain,Zanaka,Pop,3,LastFM,3TTMUI5dFcbeNSDTTDY9M8,0.679,0.728,5,-3.092,0.154,0.159,0.0,0.107,0.46,152.001,181013
-68,France,Wonderwall,Oasis,(What's the Story) Morning Glory?,Alternative,4,LastFM,5wj4E6IsrVtn8IBJQOd0Cl,0.372,0.865,2,-4.918,0.0381,0.000453,0.0,0.234,0.478,174.53,258733
-69,France,Karma Police,Radiohead,OK Computer,Alternative,5,LastFM,3SVAN3BRByDmHOhKyIDxfC,0.36,0.505,7,-9.129,0.026,0.0626,9.22e-05,0.172,0.317,74.807,264067
-70,Japan,ロビンソン,スピッツ,ハチミツ,Pop,1,LastFM,4SBVWkRIMJ6WBCYPvr5Bwr,0.676,0.56,4,-6.024,0.0643,0.0112,0.00403,0.137,0.551,178.555,219332
-71,Japan,花束を君に,宇多田ヒカル,花束を君に,J-Pop,2,LastFM,31yv1hR9gw1WSEmtqsaZbD,0.521,0.539,4,-7.667,0.029,0.538,0.0,0.307,0.358,81.979,278240
-72,Japan,新宝島,サカナクション,新宝島,Rock,3,LastFM,4a48lWUd64bZgHUDx0GZlj,0.551,0.919,7,-3.484,0.074,0.0013,0.00638,0.352,0.652,157.989,305000
-73,Japan,リライト,ASIAN KUNG-FU GENERATION,ソルファ,Anime,4,LastFM,630sXRhIcfwr2e4RdNtjKN,0.684,0.619,10,-7.005,0.0386,0.0716,0.0,0.122,0.284,125.046,217440
-74,Japan,道,宇多田ヒカル,Hikaru Utada Laughter in the Dark Tour 2018,Hip-Hop/Rap,5,LastFM,6KAw9NEvkVlIhg5T0G97M8,0.493,0.295,1,-9.924,0.0251,0.494,0.0,0.13,0.301,86.982,277160
-75,UK,Mr. Brightside,The Killers,Hot Fuss,Rock,1,LastFM,7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
-76,UK,Africa,Toto,Toto IV,Rock,2,LastFM,2374M0fQpWi3dLnB54qaLX,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
-77,UK,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,3,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-78,UK,Smells Like Teen Spirit,Nirvana,Nevermind,Rock,4,LastFM,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
-79,UK,Seven Nation Army,The White Stripes,Elephant,Alternative,5,LastFM,7i6r9KotUPQg3ozKKgEPIN,0.737,0.463,0,-7.828,0.0792,0.00817,0.447,0.255,0.324,123.881,231733
-80,Germany,Smells Like Teen Spirit,Nirvana,Nevermind,Rock,1,LastFM,5ghIJDpPoe3CfHMGu71E6T,0.502,0.912,1,-4.556,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920
-81,Germany,Africa,Toto,Toto IV,Rock,2,LastFM,2374M0fQpWi3dLnB54qaLX,0.671,0.373,9,-18.064,0.0323,0.257,7.95e-05,0.0481,0.732,92.717,295893
-82,Germany,Mr. Brightside,The Killers,Hot Fuss,Rock,3,LastFM,7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
-83,Germany,Come as You Are,Nirvana,Nevermind,Rock,4,LastFM,4P5KoWXOxwuobLmHXLMobV,0.5,0.824,4,-5.846,0.0388,0.00016,0.00161,0.0916,0.539,120.125,218920
-84,Germany,Hello,Adele,25,Pop,5,LastFM,4sPmO7WMQUAf45kwMOtONw,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
-85,US,Can't Feel My Face,The Weeknd,Beauty Behind the Madness,R&B/Soul,1,LastFM,22VdIZQfgXJea34mQxlt81,0.705,0.769,9,-5.526,0.0426,0.112,0.0,0.105,0.59,107.939,213520
-86,US,Hotline Bling,Drake,Views,Hip-Hop/Rap,2,LastFM,0wwPcA6wtMf6HUMpIRdeP7,0.891,0.625,2,-7.861,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067
-87,US,The Less I Know the Better,Tame Impala,Currents,Alternative,3,LastFM,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320
-88,US,Mr. Brightside,The Killers,Hot Fuss,Rock,4,LastFM,7oK9VyNzrYvRFo7nQEYkWN,0.356,0.924,1,-3.74,0.0808,0.00101,0.0,0.0953,0.232,148.017,222587
-89,US,Hello,Adele,25,Pop,5,LastFM,4sPmO7WMQUAf45kwMOtONw,0.481,0.451,5,-6.095,0.0347,0.336,0.0,0.0872,0.289,157.966,295493
-90,Germany,KEIN SCHLAF,LGM,Kein Schlaf - Single,Hip-Hop/Rap,1,Spotify,6416zJN0FGPmh1Ph4BH2h3,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
-91,Germany,COLT,Afroman,The Good Times,Hip-Hop/Rap,2,Spotify,1ACZpHI5vZ5Ea4xGlkdGWM,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
-92,Germany,Roller,April Wine,Classic Masters: April Wine (Remastered),Rock,3,Spotify,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
-93,Germany,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-94,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,5,Spotify,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
-95,Netherlands,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-96,Netherlands,Pa Olvidarte,"ChocQuibTown, Zion & Lennox & Farruko",Pa Olvidarte (Remix) [feat. Manuel Turizo] - Single,Urbano latino,2,Spotify,2ktoFujjJtantyMoVdBJlX,0.724,0.791,7,-5.411,0.169,0.0441,6.55e-06,0.239,0.856,176.011,256418
-97,Netherlands,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,3,Spotify,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-98,Netherlands,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,4,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-99,Netherlands,Memories,Maroon 5,Memories - Single,Pop,5,Spotify,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
-100,Australia,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-101,Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-102,Australia,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,3,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
-103,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,4,Spotify,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
-104,Australia,Memories,Maroon 5,Memories - Single,Pop,5,Spotify,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
-105,Japan,Pretender,Steve Aoki,Pretender (feat. Lil Yachty & AJR) - Single,Dance,1,Spotify,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373
-106,Japan,Hakujitsu,King Gnu,Hakujitsu - Single,J-Pop,2,Spotify,0mNO3xUzjsI17GXO1DRFCH,0.606,0.901,1,-2.552,0.11,0.67,0.0,0.289,0.748,93.012,274913
-107,Japan,宿命,Yasuharu Takanashi,"""Fairy Tail"" Original Soundtrack Vol.1",Anime,3,Spotify,1T6Db8pPGs2CaMGKQwfR5o,0.346,0.475,2,-8.992,0.0335,0.757,1.87e-05,0.171,0.232,126.821,237689
-108,Japan,イエスタデイ,The Beatles,1 (2015 Version),Rock,4,Spotify,270LcmQ5eUlY2Sl6Y4L6Wn,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
-109,Japan,ノーダウト,No Doubt,The Singles 1992-2003,Pop,5,Spotify,6urCAbunOQI4bLhmGpX7iS,0.52,0.709,5,-7.125,0.0352,0.247,1.78e-05,0.18,0.536,76.039,263560
-110,France,Ne reviens pas,Gradur,Zone 59,Hip-Hop/Rap,1,Spotify,0kp0ovTvyYUdoexEt7AcoL,0.932,0.762,10,-3.376,0.0747,0.222,0.0,0.164,0.931,124.975,188613
-111,France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,2,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-112,France,Popopop,musiqman Jr.,Musiqruisin',R&B/Soul,3,Spotify,18HNGxDOcshRU2Hdu8tMOM,0.833,0.652,0,-6.194,0.31,0.0477,0.000138,0.145,0.414,130.002,155632
-113,France,Mayday (feat. Ninho),SCH,Rooftop,Hip-Hop/Rap,4,Spotify,1SVuEeerYIwjCRsF5MGzX3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
-114,France,Hé oh,OneRepublic,Oh My My,Pop,5,Spotify,1bWafkUCOp6luXRs1cm3w9,0.832,0.591,7,-5.481,0.147,0.0684,0.000368,0.196,0.537,104.996,178416
-115,US,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,1,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-116,US,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,2,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
-117,US,Heartless,Diplo,Heartless (feat. Morgan Wallen) - Single,Country,3,Spotify,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
-118,US,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,4,Spotify,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-119,US,Adore You,Harry Styles,Fine Line,Pop,5,Spotify,1M4qEo4HE3PRaCOM7EXNJq,0.676,0.771,8,-3.675,0.0483,0.0237,7e-06,0.102,0.569,99.048,207133
-120,UK,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,1,Spotify,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-121,UK,Last Christmas,Wham!,Last Christmas - Single,Holiday,2,Spotify,6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0.0282,0.262,0.0,0.221,0.861,106.856,267160
-122,UK,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,3,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-123,UK,Rockin' Around The Christmas Tree,Brenda Lee,20th Century Masters - The Christmas Collection: The Best of Brenda Lee,Holiday,4,Spotify,2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,0.0502,0.614,0.0,0.505,0.898,67.196,126267
-124,UK,It's Beginning to Look a Lot like Christmas,Michael Bublé,Christmas,Holiday,5,Spotify,5a1iz510sv2W9Dt1MvFd5R,0.339,0.214,4,-11.714,0.0375,0.908,7.47e-06,0.341,0.363,94.775,206640
-125,Canada,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-126,Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
-127,Canada,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,3,Spotify,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-128,Canada,Heartless,Diplo,Heartless (feat. Morgan Wallen) - Single,Country,4,Spotify,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
-129,Canada,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,5,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
-130,Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,1,Spotify,0TK2YIli7K1leLovkQiNik,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
-131,Hong Kong,Memories,Maroon 5,Memories - Single,Pop,2,Spotify,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
-132,Hong Kong,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,3,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
-133,Hong Kong,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,4,Spotify,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
-134,Hong Kong,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,5,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-=======
-,Country,Rank,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
-0,Australia,3.0,0.7123333333333334,0.6819333333333334,5.333333333333333,-5.383,0.07507333333333333,0.21754266666666666,0.00241708,0.16579333333333332,0.5528,115.41966666666666,217528.2
-1,Canada,3.0,0.5949333333333333,0.7104000000000001,5.066666666666666,-5.597066666666667,0.07642666666666667,0.1433103666666667,0.0006758666666666667,0.15316000000000002,0.4534,132.37386666666666,217785.93333333332
-2,France,3.0,0.6997333333333334,0.6812666666666665,5.466666666666667,-5.952333333333333,0.13666,0.24192523333333332,7.571333333333333e-05,0.15327333333333332,0.5057333333333333,120.5432,219172.73333333334
-3,Germany,3.0,0.6698666666666667,0.6237333333333334,5.066666666666666,-6.729133333333334,0.16493333333333332,0.23530636666666666,0.00015576666666666667,0.19081333333333333,0.4742666666666666,122.26906666666667,249933.4
-4,Hong Kong,3.0,0.6554000000000001,0.47833333333333333,6.6,-7.309400000000001,0.049006666666666664,0.513,0.044042943333333334,0.10311333333333335,0.49013333333333337,114.89493333333336,226159.8
-5,Japan,3.0,0.4822666666666667,0.6304,5.2,-7.137866666666668,0.046493333333333345,0.3498792666666667,0.14469768000000002,0.18558,0.37660000000000005,119.78246666666665,246976.6
-6,Netherlands,3.0,0.6032666666666666,0.6303333333333334,5.6,-7.4173333333333344,0.06786666666666667,0.2832565666666666,0.04825173666666668,0.15050666666666668,0.5197999999999999,131.83633333333333,246343.2
-7,UK,3.0,0.5758,0.6000666666666667,5.866666666666666,-7.6534,0.05751333333333333,0.32003903333333333,0.029831545333333334,0.16762000000000002,0.5064666666666666,114.655,232891.4
-8,US,3.0,0.6778666666666667,0.6612000000000001,5.866666666666666,-6.0634,0.10430666666666664,0.07820933333333334,0.0006319333333333333,0.21466666666666664,0.4680666666666667,129.65759999999997,210213.2
->>>>>>> cfd01b0d1aa0576ec3d9e4a5e4f3c0f57afe2580
+0,Australia,Dance Monkey,Tones and I,Dance Monkey - Single,Pop,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+1,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,2,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+2,Australia,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,3,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+3,Australia,Ride It,Regard,Ride It - Single,Dance,4,Apple,2tnVG71enUj33Ic2nFN6kZ,0.882,0.78,0,-4.256,0.0939,0.159,5.22e-05,0.0973,0.867,117.945,157606
+4,Australia,Never Seen the Rain,Tones and I,The Kids Are Coming - EP,Alternative,5,Apple,0JQ5MbyriK6ruD3t6RZ7ix,0.672,0.464,6,-5.624,0.037,0.43,0.0,0.284,0.271,92.069,200742
+5,Australia,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+6,Australia,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+7,Australia,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+8,Australia,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+9,Australia,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+10,Australia,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+11,Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+12,Australia,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,3,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+13,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,4,Spotify,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+14,Australia,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,5,Spotify,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+15,Canada,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,1,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+16,Canada,Bandit,Juice WRLD & YoungBoy Never Broke Again,Bandit - Single,Hip-Hop/Rap,2,Apple,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+17,Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,3,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+18,Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,4,Apple,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+19,Canada,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,5,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+20,Canada,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+21,Canada,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+22,Canada,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+23,Canada,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+24,Canada,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+25,Canada,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+26,Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+27,Canada,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,3,Spotify,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+28,Canada,Bandit (with YoungBoy Never Broke Again),NA,NA,NA,4,Spotify,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+29,Canada,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,5,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+30,France,Ne reviens pas (feat. Heuss L'enfoiré),Gradur,Zone 59,Hip-hop/Rap,1,Apple,0kp0ovTvyYUdoexEt7AcoL,0.932,0.762,10,-3.376,0.0747,0.222,0.0,0.164,0.931,124.975,188613
+31,France,Mayday (feat. Ninho),SCH,Rooftop,Hip-hop/Rap,2,Apple,1SVuEeerYIwjCRsF5MGzX3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
+32,France,40%,Aya Nakamura,NAKAMURA (Deluxe Edition),R&B/Soul,3,Apple,7FYH5AW3bVfZHJIQpq3UOA,0.824,0.733,1,-5.475,0.0613,0.0355,0.0,0.324,0.393,97.971,284387
+33,France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+34,France,Mon bébé d'amour,Jul,C'est pas des LOL,Hip-hop/Rap,5,Apple,6ONBway3VLMdg9tQMZixT7,0.839,0.911,2,-5.625,0.172,0.207,4.9e-06,0.0711,0.779,114.959,209107
+35,France,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+36,France,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+37,France,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+38,France,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+39,France,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+40,France,Ne reviens pas,Salomé Leclerc,Sous les arbres,French Pop,1,Spotify,0kp0ovTvyYUdoexEt7AcoL,0.932,0.762,10,-3.376,0.0747,0.222,0.0,0.164,0.931,124.975,188613
+41,France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,2,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+42,France,Popopop,musiqman Jr.,Musiqruisin',R&B/Soul,3,Spotify,18HNGxDOcshRU2Hdu8tMOM,0.833,0.652,0,-6.194,0.31,0.0477,0.000138,0.145,0.414,130.002,155632
+43,France,Mayday (feat. Ninho),SCH,Rooftop,Hip-Hop/Rap,4,Spotify,1SVuEeerYIwjCRsF5MGzX3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
+44,France,Jamais,Charlotte Gainsbourg,5:55,Alternative,5,Spotify,0eeeyCAGnGZInPtpkdYiPa,0.608,0.47,8,-6.73,0.0428,0.226,0.0,0.0963,0.241,81.0,227275
+45,Germany,KEIN SCHLAF,Nimo & Hava,NIMORIGINAL,Hip-Hop/Rap,1,Apple,6416zJN0FGPmh1Ph4BH2h3,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
+46,Germany,COLT,Samra,COLT - Single,Hip-Hop/Rap,2,Apple,1ACZpHI5vZ5Ea4xGlkdGWM,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
+47,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,3,Apple,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
+48,Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,4,Apple,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
+49,Germany,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,5,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+50,Germany,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+51,Germany,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+52,Germany,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+53,Germany,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+54,Germany,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+55,Germany,KEIN SCHLAF,LGM,Kein Schlaf - Single,Hip-Hop/Rap,1,Spotify,6416zJN0FGPmh1Ph4BH2h3,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
+56,Germany,COLT,Afroman,The Good Times,Hip-Hop/Rap,2,Spotify,1ACZpHI5vZ5Ea4xGlkdGWM,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
+57,Germany,Roller,April Wine,Classic Masters: April Wine (Remastered),Rock,3,Spotify,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
+58,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,4,Spotify,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
+59,Germany,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,5,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+60,Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,1,Apple,0TK2YIli7K1leLovkQiNik,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
+61,Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,2,Apple,3Z0oQ8r78OUaHvGPiDBR3W,0.323,0.405,10,-8.533,0.0413,0.849,0.000544,0.138,0.274,145.104,194848
+62,Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,Pop,3,Apple,56wVfJKtnwlSZtC4NVgIrf,0.512,0.35,10,-11.843,0.0311,0.478,1.15e-06,0.0855,0.343,152.023,222333
+63,Hong Kong,Show Yourself,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,4,Apple,50WeOnXhM1H7AZEeIDoWfZ,0.321,0.429,6,-7.073,0.0302,0.724,9.1e-05,0.0606,0.174,123.421,260907
+64,Hong Kong,讓愛高飛 (劇集《多功能老婆》片尾曲),周柏豪,讓愛高飛 (劇集《多功能老婆》片尾曲) - Single,Guangdong song,5,Apple,7nIxo0dE9d4FBwPYhmdQae,0.485,0.377,10,-9.091,0.03,0.71,0.0,0.119,0.355,139.976,220286
+65,Hong Kong,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+66,Hong Kong,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+67,Hong Kong,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+68,Hong Kong,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+69,Hong Kong,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+70,Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,1,Spotify,0TK2YIli7K1leLovkQiNik,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
+71,Hong Kong,Memories,Maroon 5,Memories - Single,Pop,2,Spotify,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+72,Hong Kong,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,3,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+73,Hong Kong,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,4,Spotify,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+74,Hong Kong,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,5,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+75,Japan,Pretender,Official髭男dism,Pretender - Single,J-Pop,1,Apple,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373
+76,Japan,白日,King Gnu,白日 - Single,Alternative,2,Apple,7f6294j6awMKzkePCiRbjj,0.448,0.937,2,-3.833,0.0568,5.5e-05,0.246,0.168,0.314,143.037,296733
+77,Japan,宿命,Official髭男dism,宿命 - Single,J-Pop,3,Apple,1T6Db8pPGs2CaMGKQwfR5o,0.346,0.475,2,-8.992,0.0335,0.757,1.87e-05,0.171,0.232,126.821,237689
+78,Japan,イエスタデイ,Official髭男dism,Traveler,J-Pop,4,Apple,270LcmQ5eUlY2Sl6Y4L6Wn,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
+79,Japan,マリーゴールド,あいみょん,瞬間的シックスセンス,J-Pop,5,Apple,0jWVUKsIoyo3zw64RaEWYg,0.545,0.745,2,-3.098,0.0286,0.0452,0.0,0.0907,0.413,106.094,306627
+80,Japan,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+81,Japan,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+82,Japan,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+83,Japan,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+84,Japan,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+85,Japan,Pretender,Steve Aoki,Pretender (feat. Lil Yachty & AJR) - Single,Dance,1,Spotify,7x8dCjCr0x6x2lXKujYD34,0.433,0.959,9,-4.04,0.0431,0.000917,0.0,0.028,0.365,172.984,269373
+86,Japan,Hakujitsu,King Gnu,Hakujitsu - Single,J-Pop,2,Spotify,0mNO3xUzjsI17GXO1DRFCH,0.606,0.901,1,-2.552,0.11,0.67,0.0,0.289,0.748,93.012,274913
+87,Japan,宿命,Yasuharu Takanashi,"""Fairy Tail"" Original Soundtrack Vol.1",Anime,3,Spotify,1T6Db8pPGs2CaMGKQwfR5o,0.346,0.475,2,-8.992,0.0335,0.757,1.87e-05,0.171,0.232,126.821,237689
+88,Japan,イエスタデイ,The Beatles,1 (2015 Version),Rock,4,Spotify,270LcmQ5eUlY2Sl6Y4L6Wn,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
+89,Japan,ノーダウト,No Doubt,The Singles 1992-2003,Pop,5,Spotify,6urCAbunOQI4bLhmGpX7iS,0.52,0.709,5,-7.125,0.0352,0.247,1.78e-05,0.18,0.536,76.039,263560
+90,Netherlands,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+91,Netherlands,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hiphop / Rap,2,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+92,Netherlands,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,3,Apple,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+93,Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,4,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+94,Netherlands,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holidays,5,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+95,Netherlands,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+96,Netherlands,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+97,Netherlands,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+98,Netherlands,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+99,Netherlands,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+100,Netherlands,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+101,Netherlands,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,2,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+102,Netherlands,Pa Olvidarte,"ChocQuibTown, Zion & Lennox & Farruko",Pa Olvidarte (Remix) [feat. Manuel Turizo] - Single,Urbano latino,3,Spotify,2ktoFujjJtantyMoVdBJlX,0.724,0.791,7,-5.411,0.169,0.0441,6.55e-06,0.239,0.856,176.011,256418
+103,Netherlands,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,4,Spotify,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+104,Netherlands,Memories,Maroon 5,Memories - Single,Pop,5,Spotify,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
+105,UK,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,Heavy Is The Head,Hip-Hop/Rap,1,Apple,07s9NNOT0sZQp7TyolLLgu,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
+106,UK,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,2,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+107,UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,3,Apple,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
+108,UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Christmas,4,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+109,UK,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,5,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+110,UK,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+111,UK,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+112,UK,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+113,UK,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+114,UK,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+115,UK,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,1,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+116,UK,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,2,Spotify,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+117,UK,Last Christmas,Wham!,Last Christmas - Single,Holiday,3,Spotify,6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0.0282,0.262,0.0,0.221,0.861,106.856,267160
+118,UK,Own It (feat. Ed Sheeran & Burna Boy),NA,NA,NA,4,Spotify,07s9NNOT0sZQp7TyolLLgu,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
+119,UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,5,Spotify,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
+120,US,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,1,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+121,US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,2,Apple,0nbXyq5TXYPCO7pr3N8S4I,0.896,0.586,10,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971,196653
+122,US,Bandit,Juice WRLD & YoungBoy Never Broke Again,Bandit - Single,Hip-Hop/Rap,3,Apple,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+123,US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4,Apple,5ravc2aiNoYmu9m37diYXW,0.924,0.466,4,-9.472,0.244,0.0401,0.0,0.109,0.539,130.038,146656
+124,US,All Girls Are the Same,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,5,Apple,4VXIryQMWpIdGgYR4TrjT1,0.671,0.529,0,-7.226,0.307,0.0769,0.000335,0.0856,0.203,161.989,165820
+125,US,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
+126,US,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
+127,US,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
+128,US,doN'T StArT nOw,Dua Lipa,doN'T StArT nOw,Pop,4,LastFM,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+129,US,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,LastFM,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
+130,US,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,1,Spotify,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+131,US,Bandit (with YoungBoy Never Broke Again),NA,NA,NA,2,Spotify,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+132,US,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,3,Spotify,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
+133,US,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,4,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+134,US,Robbery,Juice WRLD,Death Race for Love,Hip-Hop/Rap,5,Spotify,6Hj9jySrnFppAI0sEMCZpJ,0.685,0.692,2,-5.122,0.0457,0.328,0.0,0.153,0.578,159.966,240051
