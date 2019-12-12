@@ -61,7 +61,7 @@ After creating each dataframe, we merged them to pull in the playlist ID tag. Th
 ### Frequency of Track Occurrances 
 
 <p align="center">
-  <img width="500" height="450" src="Resources/track_freq.png">
+  <img width="1400" height="450" src="Resources/track_freq.png">
 </p>
 
 This charts the amount of times appeared as a Top 5 chart across our arrays of countries and streaming platforms. Dance Monkey by Tones and I was featured the most amount of times, appearing 13 times. 
@@ -69,7 +69,7 @@ This charts the amount of times appeared as a Top 5 chart across our arrays of c
 ### Frequency of Artist Occurrances
 
 <p align="center">
-  <img width="500" height="450" src="Resources/artist_freq.png">
+  <img width="1400" height="450" src="Resources/artist_freq.png">
 </p>
 
 The artist that was featured the most amongst the Top 5 chart was Billie Eilish, with a frequency of 20. Although she did not appear as the top track occurrance, this could lead to conclude that Billie has multiple songs that made it to the Top 5 charts. 
@@ -77,7 +77,7 @@ The artist that was featured the most amongst the Top 5 chart was Billie Eilish,
 ### Frequency of Genre Occurrances
 
 <p align="center">
-  <img width="500" height="450" src="Resources/genre_freq.png">
+  <img width="1400" height="450" src="Resources/genre_freq.png">
 </p>
 
 Alternative and Hip-Hop/Rap were the top charting genres across the 9 countries we analyzed. This gives us insight on what the current trend in music as we near the end of the decade. 
@@ -85,7 +85,7 @@ Alternative and Hip-Hop/Rap were the top charting genres across the 9 countries 
 ### Audio Feature Analysis by Genre
 
 <p align="center">
-  <img width="600" height="500" src="Resources/audio_feature_genre.png">
+  <img width="1400" height="500" src="Resources/audio_feature_genre.png">
 </p>
 
 This diagram represents the different audio features grouped by the different genres. Each genre had a varied analysis. For instance, Alternative and Pop music have a higher danceability, but Dance music has a higher valence. From this, we can infer that Dance music makes people significantly happier, but Alternative and Pop music don't have to necessarily produce happy songs that make them danceable. 
@@ -93,7 +93,7 @@ This diagram represents the different audio features grouped by the different ge
 ### Audio Feature Analysis by Country
 
 <p align="center">
-  <img width="600" height="500" src="Resources/audio_feature_country.png">
+  <img width="1400" height="500" src="Resources/audio_feature_country.png">
 </p>
 
 This diagram represents the different audio features grouped by the different countries. Similarly, this graph has a varied analysis. By looking at this chart, we can tell the France perfers music that is danceable over instrumentalness. Alternative and Pop music would chart well in France. 
@@ -103,7 +103,7 @@ From this chart, we decided we'd like to take a closer look at danceability, ene
 #### Danceability by Country 
 
 <p align="center">
-  <img width="600" height="500" src="Resources/DanceabilityByCountry.png">
+  <img width="1400" height="500" src="Resources/DanceabilityByCountry.png">
 </p>
 
 This scatter plot shows that France, Germany, and the US favor danceability in their songs, with many of their top 5 tracks ranking in a close value of danceability per country.
@@ -111,7 +111,7 @@ This scatter plot shows that France, Germany, and the US favor danceability in t
 #### Energy by Country 
 
 <p align="center">
-  <img width="600" height="500" src="Resources/EnergyByCountry.png">
+  <img width="1400" height="500" src="Resources/EnergyByCountry.png">
 </p>
 
 This plot shows that Japan enjoys energetic songs, with France coming in a close second.
@@ -119,7 +119,7 @@ This plot shows that Japan enjoys energetic songs, with France coming in a close
 #### Valence by Country 
 
 <p align="center">
-  <img width="600" height="500" src="Resources/ValenceByCountry.png">
+  <img width="1400" height="500" src="Resources/ValenceByCountry.png">
 </p>
 
 The chart shows that France prefers their music to be happier, having a higher valence. Alternatively, Germany and the UK have sadder and angrier music that make it to their top charts. 
