@@ -85,7 +85,7 @@ Alternative and Hip-Hop/Rap were the top charting genres across the 9 countries 
 ### Audio Feature Analysis by Genre
 
 <p align="center">
-  <img width="1800" height="500" src="Resources/audio_feature_genre.png">
+  <img width="2500" height="500" src="Resources/audio_feature_genre.png">
 </p>
 
 This diagram represents the different audio features grouped by the different genres. Each genre had a varied analysis. For instance, Alternative and Pop music have a higher danceability, but Dance music has a higher valence. From this, we can infer that Dance music makes people significantly happier, but Alternative and Pop music don't have to necessarily produce happy songs that make them danceable. 
@@ -93,7 +93,7 @@ This diagram represents the different audio features grouped by the different ge
 ### Audio Feature Analysis by Country
 
 <p align="center">
-  <img width="1800" height="500" src="Resources/audio_feature_country.png">
+  <img width="2500" height="500" src="Resources/audio_feature_country.png">
 </p>
 
 This diagram represents the different audio features grouped by the different countries. Similarly, this graph has a varied analysis. By looking at this chart, we can tell the France perfers music that is danceable over instrumentalness. Alternative and Pop music would chart well in France. 
