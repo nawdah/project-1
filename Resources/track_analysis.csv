@@ -1,8 +1,8 @@
 ,Country,Name,Artist,Album,Genre,Rank,Source,Spotify ID,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
 0,Australia,Dance Monkey,Tones and I,Dance Monkey - Single,Pop,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
 1,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,2,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
-2,Australia,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,3,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
-3,Australia,Ride It,Regard,Ride It - Single,Dance,4,Apple,2tnVG71enUj33Ic2nFN6kZ,0.882,0.78,0,-4.256,0.0939,0.159,5.22e-05,0.0973,0.867,117.945,157606
+2,Australia,Ride It,Regard,Ride It - Single,Dance,3,Apple,2tnVG71enUj33Ic2nFN6kZ,0.882,0.78,0,-4.256,0.0939,0.159,5.22e-05,0.0973,0.867,117.945,157606
+3,Australia,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,4,Apple,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
 4,Australia,Never Seen the Rain,Tones and I,The Kids Are Coming - EP,Alternative,5,Apple,0JQ5MbyriK6ruD3t6RZ7ix,0.672,0.464,6,-5.624,0.037,0.43,0.0,0.284,0.271,92.069,200742
 5,Australia,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 6,Australia,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
@@ -14,9 +14,9 @@
 12,Australia,Circles,Post Malone,Hollywood's Bleeding,Hip-Hop/Rap,3,Spotify,21jGcNKet2qwijlDFuPiPb,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
 13,Australia,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,4,Spotify,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
 14,Australia,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,5,Spotify,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
-15,Canada,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,1,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+15,Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
 16,Canada,Bandit,Juice WRLD & YoungBoy Never Broke Again,Bandit - Single,Hip-Hop/Rap,2,Apple,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
-17,Canada,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,3,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
+17,Canada,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,3,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
 18,Canada,ROXANNE,Arizona Zervas,ROXANNE - Single,Hip-Hop/Rap,4,Apple,696DnlkuDOXcMAnKlTgXXK,0.621,0.601,6,-5.616,0.148,0.0522,0.0,0.46,0.457,116.735,163636
 19,Canada,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,5,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
 20,Canada,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
@@ -33,7 +33,7 @@
 31,France,Mayday (feat. Ninho),SCH,Rooftop,Hip-Hop/Rap,2,Apple,1SVuEeerYIwjCRsF5MGzX3,0.614,0.596,9,-7.664,0.357,0.605,5.3e-06,0.0945,0.248,152.138,209787
 32,France,40%,Aya Nakamura,NAKAMURA (Deluxe Edition),R&B/Soul,3,Apple,7FYH5AW3bVfZHJIQpq3UOA,0.824,0.733,1,-5.475,0.0613,0.0355,0.0,0.324,0.393,97.971,284387
 33,France,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,4,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-34,France,Mon bébé d'amour,Jul,C'est pas des LOL,Hip-Hop/Rap,5,Apple,6ONBway3VLMdg9tQMZixT7,0.839,0.911,2,-5.625,0.172,0.207,4.9e-06,0.0711,0.779,114.959,209107
+34,France,Loin de moi,Naza,Loin de moi - Single,Hip-Hop/Rap,5,Apple,30kxl4FnaEFS2qZkec3Zak,0.892,0.459,11,-8.316,0.239,0.635,4.4e-05,0.062,0.501,96.975,143744
 35,France,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 36,France,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
 37,France,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
@@ -46,8 +46,8 @@
 44,France,Jamais,Charlotte Gainsbourg,5:55,Alternative,5,Spotify,0eeeyCAGnGZInPtpkdYiPa,0.608,0.47,8,-6.73,0.0428,0.226,0.0,0.0963,0.241,81.0,227275
 45,Germany,KEIN SCHLAF,Nimo & Hava,NIMORIGINAL,Hip-Hop/Rap,1,Apple,6416zJN0FGPmh1Ph4BH2h3,0.606,0.715,11,-5.608,0.173,0.294,0.000133,0.124,0.393,174.049,200493
 46,Germany,COLT,Samra,COLT - Single,Hip-Hop/Rap,2,Apple,1ACZpHI5vZ5Ea4xGlkdGWM,0.927,0.367,9,-7.797,0.382,0.325,0.0,0.132,0.576,99.053,328667
-47,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,3,Apple,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
-48,Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,4,Apple,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
+47,Germany,Roller,Apache 207,Platte,Hip-Hop/Rap,3,Apple,69M9QCMsCQ5MLsw7BBW0rL,0.8,0.562,2,-7.366,0.0961,0.0307,0.0,0.243,0.147,132.081,276349
+48,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,4,Apple,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
 49,Germany,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,5,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
 50,Germany,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 51,Germany,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
@@ -60,10 +60,10 @@
 58,Germany,Der Bratan bleibt der gleiche,Capital Bra,Der Bratan bleibt der gleiche - Single,Hip-Hop/Rap,4,Spotify,2M39v73rNJmAXUXIW0oagP,0.612,0.704,0,-4.147,0.372,0.126,0.0,0.569,0.672,96.015,192147
 59,Germany,Dance Monkey,Tones and I,The Kids Are Coming - EP,Alternative,5,Spotify,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
 60,Hong Kong,Señorita,Shawn Mendes & Camila Cabello,Señorita - Single,Pop,1,Apple,0TK2YIli7K1leLovkQiNik,0.759,0.54,9,-6.039,0.0287,0.037,0.0,0.0945,0.75,116.947,190960
-61,Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,2,Apple,3Z0oQ8r78OUaHvGPiDBR3W,0.323,0.405,10,-8.533,0.0413,0.849,0.000544,0.138,0.274,145.104,194848
-62,Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,Pop,3,Apple,56wVfJKtnwlSZtC4NVgIrf,0.512,0.35,10,-11.843,0.0311,0.478,1.15e-06,0.0855,0.343,152.023,222333
-63,Hong Kong,Show Yourself,Idina Menzel & Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,4,Apple,50WeOnXhM1H7AZEeIDoWfZ,0.321,0.429,6,-7.073,0.0302,0.724,9.1e-05,0.0606,0.174,123.421,260907
-64,Hong Kong,讓愛高飛 (劇集《多功能老婆》片尾曲),周柏豪,讓愛高飛 (劇集《多功能老婆》片尾曲) - Single,Guangdong song,5,Apple,7nIxo0dE9d4FBwPYhmdQae,0.485,0.377,10,-9.091,0.03,0.71,0.0,0.119,0.355,139.976,220286
+61,Hong Kong,說好不哭,周杰倫 & 阿信,說好不哭 - Single,Pop,2,Apple,56wVfJKtnwlSZtC4NVgIrf,0.512,0.35,10,-11.843,0.0311,0.478,1.15e-06,0.0855,0.343,152.023,222333
+62,Hong Kong,Into the Unknown,Idina Menzel & AURORA,Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition),Soundtrack,3,Apple,3Z0oQ8r78OUaHvGPiDBR3W,0.323,0.405,10,-8.533,0.0413,0.849,0.000544,0.138,0.274,145.104,194848
+63,Hong Kong,讓愛高飛 (劇集《多功能老婆》片尾曲),周柏豪,讓愛高飛 (劇集《多功能老婆》片尾曲) - Single,Guangdong song,4,Apple,7nIxo0dE9d4FBwPYhmdQae,0.485,0.377,10,-9.091,0.03,0.71,0.0,0.119,0.355,139.976,220286
+64,Hong Kong,Memories,魔力紅樂團,Memories - Single,Pop,5,Apple,2b8fOow8UzyDFAE27YhOZM,0.764,0.32,11,-7.209,0.0546,0.837,0.0,0.0822,0.575,91.019,189486
 65,Hong Kong,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 66,Hong Kong,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
 67,Hong Kong,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
@@ -90,9 +90,9 @@
 88,Japan,イエスタデイ,The Beatles,1 (2015 Version),Rock,4,Spotify,270LcmQ5eUlY2Sl6Y4L6Wn,0.316,0.182,10,-15.146,0.0413,0.827,0.957,0.305,0.149,74.197,125760
 89,Japan,ノーダウト,No Doubt,The Singles 1992-2003,Pop,5,Spotify,6urCAbunOQI4bLhmGpX7iS,0.52,0.709,5,-7.125,0.0352,0.247,1.78e-05,0.18,0.536,76.039,263560
 90,Netherlands,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,1,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
-91,Netherlands,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,2,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+91,Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,2,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
 92,Netherlands,everything i wanted,Billie Eilish,everything i wanted - Single,Alternative,3,Apple,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
-93,Netherlands,Blinding Lights,The Weeknd,Blinding Lights - Single,R&B/Soul,4,Apple,0sf12qNH5qcw8qpgymFOqD,0.513,0.796,1,-4.075,0.0629,0.00147,0.000209,0.0938,0.345,171.017,201573
+93,Netherlands,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,4,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
 94,Netherlands,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
 95,Netherlands,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 96,Netherlands,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
@@ -107,8 +107,8 @@
 105,UK,Own It (feat. Ed Sheeran & Burna Boy),Stormzy,Heavy Is The Head,Hip-Hop/Rap,1,Apple,07s9NNOT0sZQp7TyolLLgu,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
 106,UK,Dance Monkey,Tones and I,Dance Monkey - Single,Alternative,2,Apple,2XU0oxnq2qxCpomAAuJY8K,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,209438
 107,UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,3,Apple,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
-108,UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,4,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
-109,UK,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,5,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+108,UK,Don't Start Now,Dua Lipa,Don't Start Now - Single,Pop,4,Apple,6WrI0LAC5M1Rw2MnX2ZvEg,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,183290
+109,UK,All I Want For Christmas Is You,Mariah Carey,Merry Christmas,Holiday,5,Apple,0bYg9bo50gSsH3LtXe2SQn,0.335,0.625,7,-7.462,0.0386,0.164,0.0,0.0708,0.346,150.277,241107
 110,UK,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 111,UK,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
 112,UK,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
@@ -119,11 +119,11 @@
 117,UK,Last Christmas,Wham!,Last Christmas - Single,Holiday,3,Spotify,6wn2nmFn3wDuiMldRiuRuL,0.757,0.618,11,-7.964,0.0282,0.262,0.0,0.221,0.861,106.856,267160
 118,UK,Own It (feat. Ed Sheeran & Burna Boy),NA,NA,NA,4,Spotify,07s9NNOT0sZQp7TyolLLgu,0.817,0.781,7,-4.178,0.112,0.00838,5.21e-06,0.123,0.359,104.0,216707
 119,UK,Before You Go,Lewis Capaldi,Divinely Uninspired To a Hellish Extent (Extended Edition),Alternative,5,Spotify,7ce20yLkzuXXLUhzIDoZih,0.459,0.575,3,-4.858,0.0573,0.604,0.0,0.0885,0.183,111.881,215107
-120,US,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,1,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
-121,US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,2,Apple,0nbXyq5TXYPCO7pr3N8S4I,0.896,0.586,10,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971,196653
-122,US,Bandit,Juice WRLD & YoungBoy Never Broke Again,Bandit - Single,Hip-Hop/Rap,3,Apple,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
-123,US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,4,Apple,5ravc2aiNoYmu9m37diYXW,0.924,0.466,4,-9.472,0.244,0.0401,0.0,0.109,0.539,130.038,146656
-124,US,All Girls Are the Same,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,5,Apple,4VXIryQMWpIdGgYR4TrjT1,0.671,0.529,0,-7.226,0.307,0.0769,0.000335,0.0856,0.203,161.989,165820
+120,US,The Box,Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,1,Apple,0nbXyq5TXYPCO7pr3N8S4I,0.896,0.586,10,-6.687,0.0559,0.104,0.0,0.79,0.642,116.971,196653
+121,US,Bandit,Juice WRLD & YoungBoy Never Broke Again,Bandit - Single,Hip-Hop/Rap,2,Apple,6Gg1gjgKi2AK4e0qzsR7sd,0.474,0.631,5,-5.884,0.343,0.0687,0.0,0.132,0.425,180.051,189323
+122,US,Start wit Me (feat. Gunna),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,3,Apple,5ravc2aiNoYmu9m37diYXW,0.924,0.466,4,-9.472,0.244,0.0401,0.0,0.109,0.539,130.038,146656
+123,US,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,Hip-Hop/Rap,4,Apple,285pBltuF7vW8TeWk8hdRR,0.511,0.566,6,-7.23,0.2,0.349,0.0,0.34,0.218,83.903,239836
+124,US,Peta (feat. Meek Mill),Roddy Ricch,Please Excuse Me For Being Antisocial,Hip-Hop/Rap,5,Apple,4bl1HBZliBuYpFZjWgefE4,0.778,0.573,10,-7.339,0.251,0.015,0.0,0.464,0.269,140.114,198849
 125,US,Everything I Wanted,Billie Eilish,everything i wanted,Alternative,1,LastFM,3ZCTVFBt2Brf31RLEnCkWJ,0.704,0.225,6,-14.454,0.0994,0.902,0.657,0.106,0.243,120.006,245426
 126,US,bad guy,Billie Eilish,"Now That's What I Call Music, Vol. 71",Alternative,2,LastFM,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,194088
 127,US,Heartless,The Weeknd,Heartless,Country,3,LastFM,57vxBYXtHMk6H1aD29V7PU,0.531,0.75,10,-5.831,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080
