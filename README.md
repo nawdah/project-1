@@ -61,7 +61,7 @@ After creating each dataframe, we merged them to pull in the playlist ID tag. Th
 ### Frequency of Track Occurrances 
 
 <p align="center">
-  <img width="1400" height="450" src="Resources/track_freq.png">
+  <img width="1400" height="450" src="Resources/tracks_freq.png">
 </p>
 
 This charts the amount of times appeared as a Top 5 chart across our arrays of countries and streaming platforms. Dance Monkey by Tones and I was featured the most amount of times, appearing 13 times. 
@@ -77,7 +77,7 @@ The artist that was featured the most amongst the Top 5 chart was Billie Eilish,
 ### Frequency of Genre Occurrances
 
 <p align="center">
-  <img width="1400" height="450" src="Resources/genre_freq.png">
+  <img width="1400" height="450" src="Resources/genres_freq.png">
 </p>
 
 Alternative and Hip-Hop/Rap were the top charting genres across the 9 countries we analyzed. This gives us insight on what the current trend in music as we near the end of the decade. 
