@@ -1,4 +1,4 @@
-# Analysis Between Streaming Platforms - Apple Music, Spotify, LastFM
+# BOOTCAMP WRAPPED 2019 - Apple Music, Spotify, LastFM
 
 ## Project Proposal 
 
